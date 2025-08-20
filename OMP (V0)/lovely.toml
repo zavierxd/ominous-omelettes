@@ -1,0 +1,24 @@
+[manifest]
+version = "1.0.0"
+priority = 1
+
+# Append or prepend the contents of one or more files onto the target.
+#
+# USEFUL: For when you *only* care about getting your code into the game, nothing else.
+# This does NOT inject it as a new module.
+[[patches]]
+[patches.copy]
+target = "main.lua"
+position = "append"
+sources = [
+    "Core/OminousPresence.lua",
+    "UI/ModsMenu.lua"
+]
+
+# Inject a new module into the game *before* a target file it loaded.
+# USEFUL: For when you want to silo your code into a separate require-able module OR inject a "global" dependency before game / mod code begins execution.
+[[patches]]
+[patches.module]
+source = "discordRPC.lua"
+before = "main.lua"
+name = "discordRPC"
