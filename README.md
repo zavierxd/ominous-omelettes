@@ -2,6 +2,8 @@
 this plugin runs using lovely, the lua injector for balatro and stuff
 it also runs using the (now deprecated but still functional) discord-rpc API
 
+(MAC SUPPORT IS UNAVAILABLE/LIMITED SINCE THE GAME IS WINDOWS-ONLY ATM)
+
 USE IT: 
 - Lovely: https://github.com/ethangreen-dev/lovely-injector?tab=readme-ov-file
 - discordRPC: https://github.com/pfirsich/lua-discordRPC/tree/master
