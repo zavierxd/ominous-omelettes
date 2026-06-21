@@ -1,7 +1,7 @@
 (UNIX SUPPORT (MAC/LINUX) IS LIMITED SINCE WE DON'T KNOW HOW THE GAME RUNS OVER THERE)
 
 # ok so basically
-now that ivy's added official modding support for evil egg loading the mod is much much easier now
+now that ivy's added official modding support for evil egg loading the mod is much much easier now  
 this program runs using the (now deprecated but still functional) discord-rpc API
 
 you will need to download it yourself; it can be found here:
