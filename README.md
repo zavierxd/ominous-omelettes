@@ -15,7 +15,7 @@ then you must put that .dll next to the game's .exe file. on steam you can right
 
 # how to run ominous presence
 find the folder in the evil egg save called "mods" and put the folder OMP in there and your good.  
-Oh right you might wanna download OMP... uhhhhh you can find it in the "Releases" tab to your right d: (o_o
+Oh right you might wanna download OMP... uhhhhh you can find the latest version of it in the "Releases" tab to your right d: (o_o
 
 # how to find evil egg save
 you'll find it in C:/Users/yourusername/AppData/Roaming/EVIL EGG. (it is a hidden file, so it would be much easier to just follow the instruction below first)  
